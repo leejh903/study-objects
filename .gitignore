@@ -20,3 +20,6 @@ gradle-app.setting
 ### Eclipse ###
 .settings/
 .project
+
+bin/
+.classpath
